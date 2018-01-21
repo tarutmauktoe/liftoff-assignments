@@ -16,7 +16,7 @@ User login: Users will be able to create accounts, and log in to the application
 
 Commenting Ability: Users can respond to other user's posts by inputing comments
 
-Upload images: Users can upload images with their posts
+Upload images: Users can upload images, video or gif links with their posts.  For the latter two, these should be able to be played as-is without having to be redirected to another site.
 
 Reactive interface: Will make use of React to make site dynamic and modern
 
