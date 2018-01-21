@@ -7,11 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+A imgur or reddit or craigslist clone that has only the essential functionality of the real site.  The purpose of the app is to draw in the user's attention and be a time sink in their lives.
+
 ### Features
-Include Features here
+
+User login: Users will be able to create accounts, and log in to the application. Each user will have a profile page.
+Commenting Ability: Users can respond to other user's posts by inputing comments
+Upload images: Users can upload images with their posts
+Reactive interface: Will make use of React to make site dynamic and modern
+
 ### Technologies
-Include Technologies here
+
+React
+MySQL or hosted on AWS
+Java
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+React
+AWS, if not using MySQL
