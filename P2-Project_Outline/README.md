@@ -22,9 +22,13 @@ Reactive interface: Will make use of React to make site dynamic and modern
 
 ### Technologies
 
+Authentication
+
 React
 
-MySQL or hosted on AWS
+Hosted on AWS if have time
+
+MySQL or Firebase for db
 
 Java
 
