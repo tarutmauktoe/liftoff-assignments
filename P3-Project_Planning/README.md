@@ -13,7 +13,7 @@ For this assignment, you'll create some initial plans for your project.
 ![Home](Home.png "Home")
 
 
-![PostDetail](PostDetail.png "Post Detail")
+![PostDetail](PostDetail1.png "Post Detail")
 
 
 ![SignIn](SignIn.png "Sign In")
