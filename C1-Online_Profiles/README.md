@@ -8,7 +8,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 
 ### GitHub
 
-github.com/jeffmt
+github.com/jeffmt, github.com/tarutmauktoe
 
 ### LinkedIn
 
